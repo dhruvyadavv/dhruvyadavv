@@ -38,8 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvyadavv&layout=compact&theme=radical" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvyadavv&theme=radical" height="180"/>
-</p>
+
 
 ---
